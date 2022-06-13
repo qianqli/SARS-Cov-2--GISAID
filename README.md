@@ -1,4 +1,4 @@
-# SARS-Cov-2
+# SARS-Cov-2 data source, methods, publications summary 
 This repo summarize the tools used in the analysis of SARS-Cov data. Some papers are also recommended here. 
 
 
