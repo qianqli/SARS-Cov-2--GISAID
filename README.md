@@ -20,15 +20,14 @@ There is a link avaliable for GFF format reference. https://www.ensembl.org/info
 Gives data about prime, sequencing data summary...
 #### ITF_Power_BI : gives a summary for SARS-Cov data. 
 
-### 6 COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University  https://github.com/CSSEGISandData/COVID-19 
+### 6, COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University  https://github.com/CSSEGISandData/COVID-19 
 very cool real-time dashboad for SARS-Cov. This also gives summary and link of lots of data sources. 
 
 ### 7， OWID(our world in data) https://github.com/owid/covid-19-data
 a repo collect the published data including SARS-Cov, hospitalization, tests, vaccinations...
 
-### UCSC: http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/ 
+### 8, UCSC: http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/ 
 phylogenetic trees of fully public SARS-CoV-2 sequences
-
 
 
 ## Tools -- focusing on github code based on publications
