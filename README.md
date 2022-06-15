@@ -54,4 +54,8 @@ This repo collect scripts to generate data like vaccination, hospitail, tests...
 ### 1, Harvey, William T., et al. "SARS-CoV-2 variants, spike mutations and immune escape." Nature Reviews Microbiology, 2021
 This review summarize literatures on mutations of SARS-CoV-2 spike protein, focusing on their impacts on antigenicity. There are also S-protein structrure to explain the mutations causing immune escape. 
 
-### 2, 
+### 2, Maher M C, Bartha I, Weaver S, et al. Predicting the mutational drivers of future SARS-CoV-2 variants of concern[J]. Science translational medicine, 2022, 14(633): eabk3445.
+This paper is to predict which existing amino acid mutations in SARS-CoV-2 might contribute to future variants of concern.
+
+### 3, Obermeyer F, Jankowiak M, Barkas N, et al. Analysis of 6.4 million SARS-CoV-2 genomes identifies mutations associated with fitness[J]. Science, 2021: abm1208.
+developed a model-- PyR0: a hierarchical Bayesian multinomial logistic regression model that infers relative prevalence of all viral lineages across geographic regions, detects lineages increasing in prevalence, and identifies mutations relevant to fitness.
