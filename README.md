@@ -29,6 +29,9 @@ a repo collect the published data including SARS-Cov, hospitalization, tests, va
 ### 8, UCSC: http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/ 
 phylogenetic trees of fully public SARS-CoV-2 sequences
 
+### 9，UShER phylogenies of public data  http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/ 
+phylogenetic trees of fully public SARS-CoV-2 sequences updated daily.
+
 
 ## Tools -- focusing on github code based on publications
 ### 1, Nextstrain https://github.com/nextstrain  and web 
