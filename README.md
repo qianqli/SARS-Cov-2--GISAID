@@ -32,7 +32,7 @@ phylogenetic trees of fully public SARS-CoV-2 sequences
 ### 9，UShER phylogenies of public data  http://hgdownload.soe.ucsc.edu/goldenPath/wuhCor1/UShER_SARS-CoV-2/ 
 phylogenetic trees of fully public SARS-CoV-2 sequences updated daily.
 
-### 10, outbreak.info https://outbreak.info/    https://github.com/outbreak-info/R-outbreak-info
+### 10, outbreak.info https://outbreak.info/    Github: https://github.com/outbreak-info/R-outbreak-info
 SARS-Cov-2 variant mutation tracker
 
 ## Tools -- focusing on github code based on publications
