@@ -66,3 +66,8 @@ code: https://github.com/cyrusmaher/MutationEpiScore
 ### 3, Obermeyer F, Jankowiak M, Barkas N, et al. Analysis of 6.4 million SARS-CoV-2 genomes identifies mutations associated with fitness[J]. Science, 2021: abm1208.
 developed a model-- PyR0: a hierarchical Bayesian multinomial logistic regression model that infers relative prevalence of all viral lineages across geographic regions, detects lineages increasing in prevalence, and identifies mutations relevant to fitness.
 PyR0 : https://github.com/broadinstitute/pyro-cov  
+
+### 4, Bojkova D, Klann K, Koch B, et al. Proteomics of SARS-CoV-2-infected host cells reveals therapy targets[J]. Nature, 2020, 583(7816): 469-472.
+  determined the infection profile of SARS-CoV-2 by translatome3 and proteome proteomics at different times after infection.
+  
+data:  http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD017710 
