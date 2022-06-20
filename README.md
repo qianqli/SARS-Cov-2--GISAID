@@ -56,18 +56,25 @@ This repo collect scripts to generate data like vaccination, hospitail, tests...
 
 
 ## Publications
+
+### reviews
 ### 1, Harvey, William T., et al. "SARS-CoV-2 variants, spike mutations and immune escape." Nature Reviews Microbiology, 2021
 This review summarize literatures on mutations of SARS-CoV-2 spike protein, focusing on their impacts on antigenicity. There are also S-protein structrure to explain the mutations causing immune escape. 
 
-### 2, Maher M C, Bartha I, Weaver S, et al. Predicting the mutational drivers of future SARS-CoV-2 variants of concern[J]. Science translational medicine, 2022, 14(633): eabk3445.
+
+### prediction the next "omicron"
+### 1, Maher M C, Bartha I, Weaver S, et al. Predicting the mutational drivers of future SARS-CoV-2 variants of concern[J]. Science translational medicine, 2022, 14(633): eabk3445.
 This paper is to predict which existing amino acid mutations in SARS-CoV-2 might contribute to future variants of concern.
 code: https://github.com/cyrusmaher/MutationEpiScore 
 
-### 3, Obermeyer F, Jankowiak M, Barkas N, et al. Analysis of 6.4 million SARS-CoV-2 genomes identifies mutations associated with fitness[J]. Science, 2021: abm1208.
+### 2, Obermeyer F, Jankowiak M, Barkas N, et al. Analysis of 6.4 million SARS-CoV-2 genomes identifies mutations associated with fitness[J]. Science, 2021: abm1208.
 developed a model-- PyR0: a hierarchical Bayesian multinomial logistic regression model that infers relative prevalence of all viral lineages across geographic regions, detects lineages increasing in prevalence, and identifies mutations relevant to fitness.
 PyR0 : https://github.com/broadinstitute/pyro-cov  
 
-### 4, Bojkova D, Klann K, Koch B, et al. Proteomics of SARS-CoV-2-infected host cells reveals therapy targets[J]. Nature, 2020, 583(7816): 469-472.
+### proteomics
+### 1, Bojkova D, Klann K, Koch B, et al. Proteomics of SARS-CoV-2-infected host cells reveals therapy targets[J]. Nature, 2020, 583(7816): 469-472.
   determined the infection profile of SARS-CoV-2 by translatome3 and proteome proteomics at different times after infection.
   
 data:  http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD017710 
+
+web lineked to the paper http://corona.papers.biochem2.com/ 
